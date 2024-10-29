@@ -53,3 +53,10 @@ Make sure you have Python 3.x installed on your machine. You will also need to i
 streamlit run main.py
 ```
 5. Open your web browser and navigate to ```http://localhost:8501``` to access the app.
+
+## Contact
+For any inquiries or feedback, please contact me:
+
+- Email: omarnahdi2021@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/omarnahdi/)
+

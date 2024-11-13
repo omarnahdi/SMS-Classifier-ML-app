@@ -4,6 +4,8 @@
 
 The **SMS Classifier ML App** is a machine learning application that classifies SMS messages as either **spam** or **ham** (not spam) using natural language processing (NLP) techniques. Built with **Streamlit**, this app provides a user-friendly interface for users to input SMS messages and receive instant predictions.
 
+watch live [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://omar-nahdi-sms-classifier.streamlit.app/)
+
 ## Features
 
 - **User Input**: Users can enter SMS messages through a simple text area.
